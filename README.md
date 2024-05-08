@@ -11,3 +11,5 @@ public class Main{
         System.out.println("else");
     }
 }
+output: 0 
+1
